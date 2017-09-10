@@ -56,7 +56,7 @@ if (!$query) {
   <img src="gps.png" alt="patient history" style="position: absolute; bottom:80px; left:650px;width:75px;height:75px;border:0;">
 </a>
 
- <a href="trackER.html">
+ <a href="notifications.php">
   <img src="home.png" alt="homepage" style="position: absolute; bottom:80px; left:800px;width:75px;height:75px;border:0;">
 </a>
 </html>

@@ -54,10 +54,14 @@ if (!$query) {
 		</table>
 </body>
 <a href="available_rooms.php">
-  <img src="gps.png" alt="patient history" style="position: absolute; bottom:80px; left:650px;width:75px;height:75px;border:0;">
+  <img src="gps.png" alt="patient history" style="position: absolute; bottom:80px; left:600px;width:75px;height:75px;border:0;">
 </a>
 
- <a href="trackER.html">
-  <img src="home.png" alt="homepage" style="position: absolute; bottom:80px; left:800px;width:75px;height:75px;border:0;">
+<a href="patient_status.php">
+  <img src="status.png" alt="homepage" style="position: absolute; bottom:80px; left:700px;width:75px;height:75px;border:0;">
+</a>
+
+<a href="default.asp">
+  <img src="print.png" alt="homepage" style="position: absolute; bottom:80px; left:850px;width:75px;height:75px;border:0;">
 </a>
 </html>
