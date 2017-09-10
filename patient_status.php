@@ -30,8 +30,8 @@ if (!$query) {
   <link rel="stylesheet" href="patient_status_style.css">
 </head>
 <body>
-	<h1>Table 1</h1>
-	<table class="data-table">
+	<h1 style="font-family:helvetica;" align= "center">Patient Tracking System</h1>
+	<table align = "center" class="data-table">
 		<caption class="title">Pending Patient Transfers</caption>
 		<thead>
 			<tr>

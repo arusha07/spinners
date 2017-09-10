@@ -29,8 +29,8 @@ if (!$query) {
   <link rel="stylesheet" href="patient_status_style.css">
 </head>
 <body>
-	<h1>Table 1</h1>
-	<table class="data-table">
+	<h1 style="font-family:helvetica;" align= "center">Available Rooms</h1>
+	<table align = "center" class="data-table">
 		<caption class="title">Department Status</caption>
 		<thead>
 			<tr>
