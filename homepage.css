@@ -1,0 +1,9 @@
+@charset "ISO-8859-1";
+p 
+{
+	font-family: "helvetica"; 
+	font-variant: small-caps;
+    position: absolute;
+    bottom: 30px;
+    right: 575px;
+}
